@@ -1,4 +1,4 @@
-package com.simple.demo;
+package com.heroku.demo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
