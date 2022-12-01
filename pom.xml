@@ -83,6 +83,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
+		<finalName>heroku-demo</finalName>
 	</build>
 
 </project>
